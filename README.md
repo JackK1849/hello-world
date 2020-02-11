@@ -1,2 +1,3 @@
 # hello-world
-Trial
+Deleted Trial
+I'm trying to learn this
